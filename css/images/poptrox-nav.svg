@@ -5,7 +5,7 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="96px" height="64px"
 	 viewBox="0 0 96 64" enable-background="new 0 0 96 64" xml:space="preserve">
 <g>
-	<polygon fill="#FFFFFF" points="65.07,32.27 46.682,64.27 30.929,64.27 30.929,61.487 45.035,61.487 61.791,32.27 45.035,3.052 
+	<polygon fill="#FF5500" points="65.07,32.27 46.682,64.27 30.929,64.27 30.929,61.486 45.035,61.486 61.791,32.27 45.035,3.052 
 		30.929,3.052 30.929,0.27 46.682,0.27 	"/>
 </g>
 </svg>
